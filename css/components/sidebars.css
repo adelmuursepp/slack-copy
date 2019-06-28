@@ -1,0 +1,52 @@
+.sidebar-dark {
+  background-color: #261C25;
+  color: #E3FEFE;
+  height: 100vh;
+}
+
+.group-channels {
+  padding: 20px;
+  color: #534C53;
+}
+
+.group-channels:hover {
+  color: #E3FEFE;
+  background-color: #534C53;
+  padding: 20px;
+}
+
+.sidebar-light {
+  width: 210px;
+  background-color: #4B3948;
+  color: #FFFFFF;
+}
+
+.sidebar-light p {
+  line-height: 10px;
+  padding: 1px;
+  opacity: 0.5;
+}
+
+.channel-info {
+  margin-bottom: 20px;
+}
+
+.person {
+  display: flex;
+  align-items: end;
+  min-width: 170px;
+}
+
+.light-sidebar-section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.light-sidebar-section-header h3 {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+.channel-sidebar-containers p {
+  margin-bottom: 8px;
+}
